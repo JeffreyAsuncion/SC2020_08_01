@@ -4,6 +4,7 @@ from query_function import query_and_print
 
 """
 THIS is the output from your queries as docstring comments
+FOR GRADING PURPOSES
 
 $ python demo_data.py
 1. Count how many rows you have - it should be 3!
